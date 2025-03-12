@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Himal Rasaily</h1>
-<h3 align="center">A passionate full stack developer in Laravel and Tailwind CSS for nepali</h3>
+# 👋 Hi, I'm Himal Rasaily
 
-- 🔭 I’m currently working on **Multi-Restaurant Food Ordering System**
+A passionate **Full Stack Developer** specialized in **Laravel** and **Tailwind CSS**, focused on building robust and scalable applications for Nepali businesses.  
+Currently exploring the world of **React** and expanding my technical horizons.
 
-- 🌱 I’m currently learning **react**
+---
 
-- 👨‍💻 All of my projects are available at [https://himalbk.com.np/portfolio/?language=en](https://himalbk.com.np/portfolio/?language=en)
+## 🔭 **Currently Working On:**
 
-- 📝 I regularly write articles on [https://himalbk.com.np/portfolio/?language=en](https://himalbk.com.np/portfolio/?language=en)
+- A **Multi-Restaurant Food Ordering System** with modern features, focused on enhancing user experience and scalability.
 
-- 📫 How to reach me **himalrasaily@gmail.com**
+---
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1iODNcQ50i7gDyKX1tP2pb9eGOMeQUboD/edit](https://docs.google.com/document/d/1iODNcQ50i7gDyKX1tP2pb9eGOMeQUboD/edit)
+## 🌱 **Learning & Exploring:**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- Diving deep into **React** to build dynamic, responsive, and performant web applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himalrasaily127&show_icons=true&locale=en&layout=compact" alt="himalrasaily127" /></p>
+## 👨‍💻 **Portfolio:**
+
+Check out my projects and contributions at my [portfolio](https://himalbk.com.np/portfolio/?language=en).  
+You’ll find detailed information on the projects I’m currently working on and have completed.
+
+---
+
+## 📝 **Blog & Articles:**
+
+I regularly write articles and share insights on web development, Laravel, and tech trends at my [blog](https://himalbk.com.np/portfolio/?language=en).  
+Feel free to explore my posts to gain useful tips and knowledge.
+
+---
+
+## 📫 **Contact Me:**
+
+- Email: [himalrasaily@gmail.com](mailto:himalrasaily@gmail.com)
+
+---
+
+## 📄 **Experience & Resume:**
+
+For detailed information about my professional experience, you can check out my [Resume](https://docs.google.com/document/d/1iODNcQ50i7gDyKX1tP2pb9eGOMeQUboD/edit).
+
+---
+
+## 🌍 **Connect with Me:**
+
+- [LinkedIn](https://www.linkedin.com/in/himalrasaily)  
+- [GitHub](https://github.com/HimalRasaily127)
+
+---
+
+## 🔧 **Languages & Tools:**
+
+- **Frontend:** HTML5, CSS3, Tailwind CSS, Figma  
+- **Backend:** Laravel, PHP, MySQL  
+- **Version Control:** Git, GitHub  
