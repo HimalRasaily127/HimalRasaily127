@@ -33,7 +33,7 @@ Feel free to explore my posts to gain useful tips and knowledge.
 
 ## 📫 **Contact Me:**
 
-- Email: [himalrasaily@gmail.com](mailto:himalrasaily@gmail.com)
+- Email: [himalrasaily965@gmail.com](mailto:himalrasaily965@gmail.com)
 
 ---
 
